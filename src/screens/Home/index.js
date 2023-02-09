@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
-import Footer from '../../components/patterns/footer/footer'
-import Link from '../../components/Link'
+import Footer from '../../components/patterns/footer/footer';
+import Link from '../../components/link';
 import { theme } from '../../theme/theme';
 import { Image, Box, Text, Icon, Input, Button } from '../../theme/components';
 import { redirects } from '../../../next.config';
